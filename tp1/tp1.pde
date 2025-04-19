@@ -47,6 +47,7 @@ strokeWeight(2);
 arc(600, 200, 30, 15, 0, PI);
 
 //cejas
+stroke (80, 70, 50);
 strokeWeight(3);
 line(570, 124, 590, 126); // ceja izq
 line(610, 126, 630, 124); // ceja der
